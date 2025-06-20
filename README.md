@@ -8,7 +8,7 @@
 
 Welcome to **Toon Tanks**, where explosive action meets strategic movement!
 
-- 🛞 Take control of a fully drivable blue tank
+- 🚙 Take control of a fully drivable blue tank
 - 🎯 Aim and shoot powerful shells at enemy units
 - 🧠 Face AI enemies that can also aim and fire at you
 - 🏆 Destroy all opponents and survive the battle to win the match!
